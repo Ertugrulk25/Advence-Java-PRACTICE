@@ -4,23 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="446b477c-0f20-4caa-bc86-a253af0428fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advence Java PRACTICE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/classes/GenericClassTwoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/classes/GenericClassTwoParamRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/classes/GenericProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/classes/GenericRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/interfaceses/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/interfaceses/GenericInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/interfaceses/GenericInterfaceImplString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/methods/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/methods/MethodExamples.java" afterDir="false" />
+    <list default="true" id="446b477c-0f20-4caa-bc86-a253af0428fe" name="Changes" comment="commitl">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/record_class/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/record_class/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/extend/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/extend/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/multithreading_/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/multithreading_/SynchronizeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/multithreading_/WaitInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/multithreading_/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/runnable_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads_/runnable_/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -38,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ertugrulk25&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ertugrulk25/Advence-Java-PRACTICE.git&quot;,
+    &quot;accountId&quot;: &quot;75eba69c-d238-4146-9b26-66c895c336e0&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -46,69 +55,53 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GenericClassTwoParamRunner.executor": "Run",
-    "Application.GenericInterfaceImplString.executor": "Run",
-    "Application.GenericRunner.executor": "Run",
-    "Application.MethodExamples.executor": "Run",
-    "Application.Runner.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Feyman.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericClassTwoParamRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericInterfaceImplString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SynchronizeBlock (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SynchronizeBlock (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.SynchronizeBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaitNotify.executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads_.runnable_.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MethodExamples">
-    <configuration name="GenericClassTwoParamRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.classes.GenericClassTwoParamRunner" />
+}</component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
       <module name="Advence Java PRACTICE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericInterfaceImplString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.interfaceses.GenericInterfaceImplString" />
+    <configuration name="Feyman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feyman" />
       <module name="Advence Java PRACTICE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.interfaceses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.classes.GenericRunner" />
+    <configuration name="MultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads_.multithreading_.MultiThreading" />
       <module name="Advence Java PRACTICE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.methods.MethodExamples" />
-      <module name="Advence Java PRACTICE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generics.methods.*" />
+          <option name="PATTERN" value="threads_.multithreading_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +110,24 @@
       </method>
     </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.interfaceses.Runner" />
+      <option name="MAIN_CLASS_NAME" value="record_class.Runner" />
       <module name="Advence Java PRACTICE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.interfaceses.*" />
+          <option name="PATTERN" value="record_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads_.multithreading_.WaitNotify" />
+      <module name="Advence Java PRACTICE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads_.multithreading_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodExamples" />
-        <item itemvalue="Application.GenericInterfaceImplString" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.GenericClassTwoParamRunner" />
-        <item itemvalue="Application.GenericRunner" />
+        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.Feyman" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.MultiThreading" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +154,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730792067438</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1730987610652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730987610652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1730987686459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730987686459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
